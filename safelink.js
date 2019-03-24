@@ -25,7 +25,7 @@ if(x=="1"){xxx="protection-during-golden-years-health.html"}
 if(x=="2"){xxx="health-insurance-for-every-need.html"}
 if(x=="3"){xxx="easy-as-1-2-3-obtaining-health-insurance.html"}
 if(x=="4"){xxx="disability-insurance.html"}
-if(x=="5"){xxx="advantages-to-indemnity-health.html"}a_to_ve[i].href="https://safelinku2019.blogspot.com/2019/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="advantages-to-indemnity-health.html"}a_to_ve[i].href="https://www.safelink.benoja.xyz/2019/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
